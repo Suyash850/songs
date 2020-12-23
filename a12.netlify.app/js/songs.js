@@ -113,10 +113,10 @@ var songList = {
             "number": 1
 		},
 		{
-			"name": "Harathi Song",
+			"name": "1",
 			"artist": "",
 			"album": "Samratchana Songs",
-			"url": "songs/03-om-jai-siva-shankarare.mp3",
+			"url": "songs/1.mp3",
             "number": 2
 		},
 		{
